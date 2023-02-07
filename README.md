@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here]()
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/react-advice-generator-app-PfYAkIpj-X)
+- Live Site URL: [Add live site URL here](https://abdalrzakalsouki.github.io/Advice-generator-app)
 
 ## My process
 
