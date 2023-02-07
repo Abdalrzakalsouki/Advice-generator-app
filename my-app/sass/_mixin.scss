@@ -1,0 +1,6 @@
+@mixin absoulteX {
+  position: absolute;
+  content: "";
+  left: 50%;
+  transform: translateX(-50%);
+}
