@@ -37,7 +37,7 @@ function Advice() {
               Advice <span>#{data.id}</span>
             </h1>
             <p>{data.advice}</p>
-            <img alt="divder" src="" />
+            <img alt="divder" src="." />
             <button
               aria-label="generate button"
               onClick={(e) => handleClick(e)}
