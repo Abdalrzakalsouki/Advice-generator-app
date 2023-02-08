@@ -33,12 +33,15 @@ function Advice() {
           <div id="error">Something went wrong, please refresh the page</div>
         ) : (
           <div>
-            <h2>
+            <h1>
               Advice <span>#{data.id}</span>
-            </h2>
+            </h1>
             <p>{data.advice}</p>
-            <img alt="divder" />
-            <button onClick={(e) => handleClick(e)}></button>
+            <img alt="divder" src="" />
+            <button
+              aria-label="generate button"
+              onClick={(e) => handleClick(e)}
+            ></button>
           </div>
         )}
       </div>
