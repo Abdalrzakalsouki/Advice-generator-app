@@ -1,5 +1,6 @@
 @use "./mixin" as MX;
 @use "./vraiables" as V;
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@800&display=swap");
 
 * {
   box-sizing: border-box;
@@ -18,6 +19,7 @@ a {
 
 body {
   background-color: V.$dark-blue;
+  font-family: "Manrope", sans-serif;
 }
 
 .container {
